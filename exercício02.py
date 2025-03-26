@@ -1,2 +1,2 @@
-nome = input("digite seu nome")
+nome = input("primeiro commit")
 print(nome)
